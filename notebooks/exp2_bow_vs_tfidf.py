@@ -28,9 +28,9 @@ warnings.filterwarnings("ignore")
 CONFIG = {
     "data_path": "notebooks/data.csv",
     "test_size": 0.2,
-    "mlflow_tracking_uri": "https://dagshub.com/Ghige/mlops_capstone_project.mlflow",
+    "mlflow_tracking_uri": "https://dagshub.com/Ghige/CAPSTONE-PROJ-MLOPS.mlflow",
     "dagshub_repo_owner": "Ghige",
-    "dagshub_repo_name": "mlops_capstone_project",
+    "dagshub_repo_name": "CAPSTONE-PROJ-MLOPS",
     "experiment_name": "Bow vs TfIdf"
 }
 
